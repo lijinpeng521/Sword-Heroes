@@ -69,18 +69,24 @@
 	margin-top: 14px;
 }
 .logo{
-	padding-top: 424px;
-	height: 674px;
-	background: url(http://i0.cy.com/dj/main/2019218/bg_01.jpg);
-	background-size: cover;
+	background: url(http://i0.cy.com/dj/main/2019218/bg_01.jpg) no-repeat;
+	background-position: center top;
+	width: 100%;
 	
+	
+}
+.tupian{
+	background: url(http://i0.cy.com/dj/main/2019218/bg_wrap01.jpg) no-repeat;
+	width: 1000px;
+	height: 956px;
+	margin: 0 auto;
 }
 .main{
 	width: 1108px;
-	height: 545px;
-	
-	margin: 0 auto;
-	background:  ;
+	overflow: hidden;
+	padding-top: 326px;
+	margin-left: -32px;
+	background: url(./img/02.jpg); 
 
 }
 .main .main_left{
