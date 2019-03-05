@@ -1,0 +1,182 @@
+/*这是头部属性*/
+.header{
+	height: 57px;
+	border-bottom: 6px solid #e2e983;
+}
+.header .header_main a span{
+	margin: -65px 23px 0 33px;
+	color: #b0b7c1;
+	display: block;
+}
+.header .header_main ul li{
+	height: 56px;
+	line-height: 56px;
+}
+.header .headr_main2 .ss{
+	width: 90px;
+}
+.header .headr_main2 a{
+	display: block;
+	width: 127px;
+	height: 65px;
+	float: left;
+	border-left:  2px solid #dedede;
+	border-right:  2px solid #dedede;
+	margin: 0 auto;
+	border-right: none;
+	line-height: 65px;
+	color: #b0b7c1;
+	font-size: 14px;
+	text-align: center;
+	position: relative;
+	top: -62px;
+	left: 903px;
+
+}	
+.header .headr_main2 a img{
+	margin-left: 5px;
+}
+.header .headr_main2 .br{
+	border-right: 2px solid #dedede;
+}
+
+
+
+
+
+
+.header .header_main{
+	height: 57px;
+	float: left;
+	margin-left: 746px;
+	margin-top: -60px;
+	font-size: 14px;
+
+
+}
+.header .photo img{
+	margin-left: 150px;
+	padding-top: 7px;
+}
+.header .photo2 img{
+	margin-left: 60px;
+	margin-top: 7px;
+}
+.header li{
+
+	display: block;
+	float: left;
+	margin-top: 14px;
+}
+.logo{
+	padding-top: 424px;
+	height: 674px;
+	background: url(http://i0.cy.com/dj/main/2019218/bg_01.jpg);
+	background-size: cover;
+	
+}
+.main{
+	width: 1108px;
+	height: 545px;
+	
+	margin: 0 auto;
+	background:  ;
+
+}
+.main .main_left{
+	float: left;
+}
+.main .main_right{
+	width: 788px;
+	height: 392px;
+	
+	float: left;
+	margin-left: 12px;
+	margin-top: 154px;
+}
+.main .main_right .main_right1{
+	float: left;
+}
+.main .main_right .main_right2{
+	width: 383px;
+	height: 102px;
+	float: left;
+}
+.main .main_right .main_right2 a img{
+	height: 113px;
+	width: 383px;
+}
+.main .main_right .main_right2 div img{
+	width: 189px;
+	height: 50px;
+	float: left;
+	
+}
+.main .main_right .main_right2 div img{
+	border-right: 1px;
+}
+.main .main_right .main_right3{
+	width: 800px;
+	height: 175px;
+	float: left;
+	margin-top: 17px;
+}
+.main .main_right .main_right3 img{
+	width: 256px;
+	height: 152px;
+	float: left;
+	margin-right: 5px;
+}
+.ft{
+	margin-top: 113px;
+	width: 100%;
+	height: 11px;
+	background: #75bc28;
+}
+.footer .foot a .pp{
+	line-height: 112px;
+	position: relative;
+	left: 15px;
+	top: 10px;
+	float: left;
+}
+.footer .foot p a{
+	font-size: 10px;
+	color: #747571;
+}
+.footer .foot a .oo{
+	
+}
+.footer .foot p{
+	font-size: 10px;
+	line-height: 22px;
+	float: left;
+	display: block;
+	color: #747571;
+	padding-left: 28px;
+
+	
+}
+.footer .foot  .op{
+	position: absolute;
+	top: 30px;
+	left: 1165px;
+
+}
+.footer .foot{
+	height: 112px;
+	width: 1105px;
+	margin: 0 auto;
+	background: #181818;
+
+}
+.footer{
+	position: relative;
+	height: 112px;
+	background: #181818;
+	padding-top: 17px;
+	
+	
+
+	
+}

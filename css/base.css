@@ -1,0 +1,11 @@
+h1,h2,h3,a,div,a,ul,li,img,dd,dl,dt,p,body{
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+ul,li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
